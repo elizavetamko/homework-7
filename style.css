@@ -1,0 +1,249 @@
+.first-screen {
+    background-color: #EEEFF1;
+    width: 1920px;
+    height: 700px;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.first-screen-menu {
+    color: #000000;
+    width: 646px;
+    height: 27px;
+}
+
+.hp {
+    color: #34547A;
+}
+
+.navigation {
+    list-style: none;
+    width: max-content;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 42px;
+    position: absolute;
+    width: 646px;
+    height: 27px;
+    left: 399px;
+    top: 79px;
+}
+
+ul li {
+    display: inline-block;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.heading {
+    color: #000000;
+    position: absolute;
+    width: 541px;
+    height: 45px;
+    left: 399px;
+    top: 257px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+}
+
+.text {
+    position: absolute;
+    width: 540px;
+    height: 67px;
+    left: 400px;
+    top: 362px;
+    color: #727272;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+button {
+    position: absolute;
+    width: 225px;
+    height: 65px;
+    left: 399px;
+    top: 494px;
+    background: #34547A;
+}
+
+.textbtn {
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.about-me {
+    position: absolute;
+    width: 1920px;
+    height: 359px;
+}
+
+.h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 50px;
+}
+
+.text2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    height: 67px;
+    width: 540px;
+    text-align: center;
+    margin-left: 690px;
+    margin-right: 690px;
+}
+
+.filling {
+    margin-top: 112px;
+    margin-bottom: 100px;
+}
+
+.numbers {
+    position: absolute;
+    width: 1920px;
+    height: 250px;
+    left: 0px;
+    top: 1059px;
+    background: #34547A;
+}
+
+
+
+.ctxt1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    height: 19px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+.ctxt2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    height: 15px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.content {
+    display: flex;
+    gap: 45px;
+    margin-top: 100px;
+    margin-left: 409px;
+}
+
+.card {
+    display: flex;
+    box-sizing: border-box;
+    width: 141px;
+    height: 50px;
+    align-items: center;
+}
+
+.card-text {
+    margin-left: 20px;
+}
+
+.video {
+    position: absolute;
+    width: 1920px;
+    height: 1004px;
+    left: 0px;
+    top: 1309px;
+    background: #EEEFF1;
+}
+
+.fill-text {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.h3 {
+    height: 30px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+    margin-bottom: 50px;
+}
+
+.video-text {
+    height: 67px;
+    width: 540px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    margin-left: 690px;
+    margin-right: 690px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.vid {
+    margin-top: 57px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.footer {
+    position: absolute;
+    width: 1920px;
+    height: 151px;
+    left: 0px;
+    top: 2313px;
+    background: #34547A;
+}
+
+.foot-text {
+    margin-top: 50px;
+    margin-left: 406px;
+}
+
+.foot-text-1 {
+    height: 19px;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.foot-text-2 {
+    height: 12px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 0;
+}
